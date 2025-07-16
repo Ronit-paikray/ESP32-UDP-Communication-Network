@@ -4,28 +4,6 @@ A robust and scalable project demonstrating **UDP-based communication** between 
 
 ---
 
-## 📋 Table of Contents
-
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Use Cases](#use-cases)
-- [Project Structure](#project-structure)
-- [Hardware Requirements](#hardware-requirements)
-- [Software Requirements](#software-requirements)
-- [Installation Guide](#installation-guide)
-- [How It Works](#how-it-works)
-- [Workflow Diagram](#workflow-diagram)
-- [Running the Project](#running-the-project)
-- [Code Enhancements](#code-enhancements)
-- [Troubleshooting](#troubleshooting)
-- [Expansion Ideas](#expansion-ideas)
-- [What I Learned](#what-i-learned)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
----
-
 ## 🛰️ Project Overview
 
 This project showcases a lightweight, non-blocking **UDP communication network** for ESP32 boards connected via Wi-Fi. The **Master ESP32** serves a web-based user interface and broadcasts commands to multiple **Slave ESP32s**, which respond to specific commands, such as toggling LEDs or processing sensor data. The system is designed to be modular, scalable, and suitable for real-time IoT applications.
@@ -330,6 +308,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🧠 Final Thoughts
 
-This project provides a **solid foundation** for building multi-device IoT systems. With UDP’s lightweight nature and the ESP32’s versatility, you can create efficient, real-time applications like home automation, sensor networks, or industrial monitoring. Explore the [Expansion Ideas](#expansion-ideas) to take it further!
+This project provides a **solid foundation** for building multi-device IoT systems. With UDP’s lightweight nature and the ESP32’s versatility, you can create efficient, real-time applications like home automation, sensor networks, or industrial monitoring. Explore the Expansion Ideas to take it further!
 
 > "With a few ESP32s and some code, you can orchestrate a network of devices to bring your IoT ideas to life!"
